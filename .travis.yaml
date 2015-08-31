@@ -1,2 +1,3 @@
 language: ruby
-script: 'true'
+rvm:
+  - ruby 2.2.2p95
